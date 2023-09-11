@@ -1,4 +1,4 @@
-My name is Natalia, and I am at the beginning of my career as a data scientist. For the last few years I have been working as a sound engineer on TV in a post-production studio. I decided to start something new for me and graduated from Yandex.A workshop, a course on data science.
+My name is Natalia, and I am at the beginning of my career as a data scientist. For the last few years I have been working as a sound engineer on TV in a post-production studio. I decided to start something new for me and graduated from Yandex.Prakticum, a course on data science.
 
 I am a beginner Python and SQL programmer, familiar with Jupiter Notebook, pandas, numpy, matplotlib, scikit-learn libraries
 
